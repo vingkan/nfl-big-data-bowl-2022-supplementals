@@ -1,2 +1,3 @@
-# nfl-big-data-bowl-2022-supplementals
-NFL Big Data Bowl 2022 Supplementals
+# NFL Big Data Bowl 2022 Supplementals
+
+By Tabor Alemu and Vinesh Kannan
